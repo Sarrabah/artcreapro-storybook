@@ -1,0 +1,16 @@
+.btn{
+    background-color: #0B21AB;
+    color: white;
+}
+
+.btn-md{
+    font-size: 16px;
+}
+
+.btn-border-xs{
+    border-radius: 4px;
+}
+
+.btn-border-none{
+    border-radius: 0px;
+}
