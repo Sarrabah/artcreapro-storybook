@@ -1,9 +1,9 @@
 .sm {
     font-size: 0.625rem;
-    font-family: Roboto;
+    font-family: var(--font-title);
   }
   
 .lg {
 font-size: 0.813rem;
-font-family: Roboto;
+font-family: var(--font-title);
 }
