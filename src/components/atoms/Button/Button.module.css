@@ -4,7 +4,7 @@
 }
 
 .btn-md{
-    font-size: 16px;
+    font-size: var(--font-medium-size);
 }
 
 .btn-sm{
